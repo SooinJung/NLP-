@@ -1,5 +1,8 @@
 # NLP 논문 스터디
 
+## 논문 스터디 노션 사이트
+https://sxxwings.notion.site/02a65da5944e4a62b4bc9460fc790917?pvs=4
+
 ## 일정
 2024.07.08 ~ 2024.08.25
 
